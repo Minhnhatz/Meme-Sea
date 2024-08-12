@@ -352,13 +352,13 @@ buttonCheckKey.MouseButton1Click:Connect(function()
 
         mainFrame:Destroy()
 
-        print('Crystal Hub: Key Success !!')
+        print('Crystal Hub : Key Success !!')
 
  
 
 -- script khi success key o day
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhnhatz/Meme-Sea/main/Meme-sea.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhnhatz/Meme-Sea/main/Meme-sea.lua"))()
 
  
 
